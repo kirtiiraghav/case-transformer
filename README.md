@@ -10,3 +10,6 @@ Case Transformer is a small JavaScript project that converts input text into var
 **Snake Case:** Converts the string to snake case (e.g., `hello world` becomes `hello_world`).
 **Kebab Case:** Converts the string to kebab case (e.g., `hello world` becomes `hello-world`).
 **Trimmed Text:** Removes all spaces from the string.
+
+You can try it out [here on Netlify](https://case-transformer.netlify.app/).
+
